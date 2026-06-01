@@ -14,7 +14,7 @@ Built a **Marketing Mix Model (MMM)** using **Google Meridian** to evaluate the 
 
 The project involved:
 
-- Collecting and preparing historical marketing spend and KPI data
+- Collecting and preparing historical marketing spend data
 
 - Building and training a Bayesian Marketing Mix Model using Google Meridian
 
